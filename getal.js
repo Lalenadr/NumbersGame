@@ -9,7 +9,7 @@ let x = document.getElementById("invoer").value;
 
 if(x == y)
 {    
-    alert("Gefeliciflanstaart! Het is juist! Je nummer was juist! ");
+    alert("Gefeliciflanstaart! This was correct! ");
 }
 else
 {    
